@@ -1,0 +1,16 @@
+.git
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+.coverage
+htmlcov
+.env
+.env.test
+.env.docker
+.idea
+.vscode
+data/chroma
+data/tmp
+data/docmind.db
+eval/work
