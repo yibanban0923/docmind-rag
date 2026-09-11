@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+sqlalchemy
+chromadb
+pypdf
+python-multipart
+httpx
+pytest
+pytest-cov
