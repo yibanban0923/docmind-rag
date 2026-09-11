@@ -1,0 +1,16 @@
+[
+  {
+    "config_id": "topk_c",
+    "recall_at_k": 0.6666666666666666,
+    "no_answer_accuracy": 1.0,
+    "false_refusal_rate": 0.0,
+    "latency_ms": {
+      "retrieve_avg": 406.3643333333333,
+      "retrieve_p95": 2023.1,
+      "llm_avg": 0.0,
+      "llm_p95": 0.0,
+      "total_avg": 406.382,
+      "total_p95": 2023.15
+    }
+  }
+]
